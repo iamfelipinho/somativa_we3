@@ -1,0 +1,40 @@
+{
+  "MOTOS": {
+    "guidao": [
+      "/Frente-1.png",
+      "/Frente-2.png",
+      "/Frente-3.png",
+      "/Frente-4.png",
+      "/Frente-5.png",
+      "/Frente-6.png",
+      "/Frente-7.png"
+    ],
+    "motor": [
+      "/Motor-1.png",
+      "/Motor-2.png",
+      "/Motor-3.png",
+      "/Motor-4.png",
+      "/Motor-5.png",
+      "/Motor-6.png",
+      "/Motor-7.png"
+    ],
+    "rodaFrente": [
+      "/RodaFrente-1.png",
+      "/RodaFrente-2.png",
+      "/RodaFrente-3.png",
+      "/RodaFrente-4.png",
+      "/RodaFrente-5.png",
+      "/RodaFrente-6.png",
+      "/RodaFrente-7.png"
+    ],
+    "rodaTraseira": [
+      "/RodaTraseira-1.png",
+      "/RodaTraseira-2.png",
+      "/RodaTraseira-4.png",
+      "/RodaTraseira-5.png",
+      "/RodaTraseira-6.png",
+      "/RodaTraseira-7.png",
+      "/RodaTraseira-8.png"
+    ]
+  }
+}
